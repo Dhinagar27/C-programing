@@ -3,7 +3,9 @@
 
 for example if we use this "int a = 10;" we store only one value 
 for storing multi value we are going for the array concept 
-syntax = int variable_name[array_size];
+syntax 
+
+  int variable_name[array_size];
 
 if we want to access the array value we use the index position of the vlaue stored in the array
 here array must be start at 0 index
