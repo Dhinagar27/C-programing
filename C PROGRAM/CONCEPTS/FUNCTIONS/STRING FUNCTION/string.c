@@ -1,7 +1,7 @@
 // string
 /*
-for string we should use the double "" for store the values like "char c[100] = {'r','a','m'};"
-we want perform any string function we should inclube string libray #include<string.h>
+for string we should use the double "" for store the values , "char c[100] = {'r','a','m'};"
+we to want perform any string function we should inclube string libray #include<string.h>
 
 */
 #include <stdio.h>
