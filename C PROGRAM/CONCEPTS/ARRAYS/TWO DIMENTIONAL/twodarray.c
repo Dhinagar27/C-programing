@@ -2,7 +2,9 @@
 /*
 
 for matrix we use 2d array
-syntax int variable_name[row_size][column_size]
+syntax 
+
+ data_type variable_name[row_size][column_size];
 
 */
 #include <stdio.h>
