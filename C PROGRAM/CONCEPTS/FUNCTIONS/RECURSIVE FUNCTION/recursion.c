@@ -5,6 +5,7 @@ A function thats call itself is known as recursive function
 
 */
 #include <stdio.h>
+
 //function declaration
 int factorial(int);
 void main()
