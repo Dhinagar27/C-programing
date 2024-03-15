@@ -9,7 +9,7 @@ void main(){
     char b = 'A';
     printf("%c\n",b);
 
-    // if we give the aski value for the char datatyep it will print the cospondent char for the value
+    // if we give the aski value for the char datatype it will print the cospondent char for the value
     char c = 65;
     printf("%c\n",c);
 
