@@ -26,7 +26,7 @@ void main(){
 
     printf("--------------------------------------------------------------------\n");
 
-    //here we are storing the address of the p pointer in to another pointer by using double pointer "**q"
+    //here we are storing the address of the p pointer in to another pointer q by using double pointer "**q"
     q = &p;
 
     printf("value of p         : %d\n",p);
@@ -40,7 +40,7 @@ void main(){
 
     printf("--------------------------------------------------------------------\n");
 
-    //here we are storing the address of the q pointer in to another pointer by using double pointer "***r"
+    //here we are storing the address of the q pointer in to another r pointer by using double pointer "***r"
     r = &q;
 
     printf("value of q         : %d\n",q);
