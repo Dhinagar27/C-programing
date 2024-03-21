@@ -1,3 +1,5 @@
+//another method for checking given two array are same or not 
+
 #include<stdio.h>
 
 void main(){
