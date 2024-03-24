@@ -1,4 +1,4 @@
-// find the large number in the array
+// find the largest number in the array
 
 #include<stdio.h>
 void main(){
