@@ -3,7 +3,7 @@
 
 for example if we use this "int a = 10;" we store only one value 
 for storing multi value we are going for the array concept 
-syntax 
+syntax :
 
   data_type variable_name[array_size];
 
