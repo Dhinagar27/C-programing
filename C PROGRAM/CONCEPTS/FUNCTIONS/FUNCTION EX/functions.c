@@ -1,4 +1,4 @@
-//functions
+//Functions
 /*
 set of codes that are enclosed with in the name and run amny time as we  need 
 
